@@ -1,7 +1,9 @@
 # Quantum Games
 These are all examples of games that I have added quantum computing elements to.
 
-I will update the list as I make more.
+I will update the list as I make more.\
+
+To play, download the .ipynb notebook and run all as a jupyter notebook.
 
 ## Quantum Wormy:  
 
@@ -19,5 +21,13 @@ This game follows along with the game flood it (based off ink spill) from [here]
 
 The landscape is randomly generate with [ANU Quantum Random Number Generator](qrng.anu.edu.au).  It is a bit slow, but other than taking a long time to load, it does not affect the game.
 
+
+## Electroquantum
+
+This is a game I came up with itself.  The instructions of the game are fround in the game itself.
+
+The purpose of this game is to introduce children to the uncertainty associated with electrons as well as the elements periodic table.  
+
+I use a quantum circuit to randomly decide if the electron moves when the player approaches - which mimics the uncertainty principle associated with electrons.
 
 
