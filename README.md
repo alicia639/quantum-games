@@ -1,7 +1,7 @@
 # Quantum Games
 These are all examples of games that I have added quantum computing elements to.
 
-I will update the list as I make more.\
+I will update the list as I make more.
 
 To play, download the .ipynb notebook and run all as a jupyter notebook.
 
